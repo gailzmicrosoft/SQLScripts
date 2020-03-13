@@ -23,10 +23,10 @@ If Object_ID('TempDB..#SQL_Assessment_Info_Temp_DB','U') IS NOT NULL Drop Table 
 
 CREATE TABLE #SQL_Assessment_Info_Temp_DB (
   [DbName] sysname, 
-  [Tables] int, 
-  [Procedures] int, 
-  [Views] int, 
-  [Triggers] int,
+  [NTables] int, 
+  [NProcedures] int, 
+  [NViews] int, 
+  [NTriggers] int,
   [SizeMB] decimal (18,2),
   [SizeGB] decimal (18,2),
   [SizeTB] decimal (18,2)
