@@ -14,7 +14,7 @@
 -- (2) Tables - # of Tables in this database (1)
 -- (3) Procedures - # of Stored Procedrues 
 -- (4) Views - # of Views
--- (5) Triggers - $ of Triggers 
+-- (5) Triggers - # of Triggers 
 -- (6) SizeMB - Size of the DB in MB
 -- (7) SizeGB - Size of the DB in GB
 -- (8) SizeTB - Size of the DB in TB 
