@@ -2,7 +2,7 @@
 /***************************************************************************************/
 /*           T-SQL Script to test important and relevant database information          */ 
 /*                          Gaiye "Gail" Zhou, Architect                               */
-/*                               May 2017                                            */
+/*                               May 2017                                              */
 /***************************************************************************************/
 -----------------------------------------------------------------------------------------
 -- Important: This T-Scripts will create 'TempDB..#SQL_Assessment_Info_Temp_DB'
