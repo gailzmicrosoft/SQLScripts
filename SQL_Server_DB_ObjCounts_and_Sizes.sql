@@ -19,7 +19,7 @@
 -- (7) SizeGB - Size of the DB in GB
 -- (8) SizeTB - Size of the DB in TB 
 
-If Object_ID('TempDB..#SQL_Assessment_Info_Temp_DB','U') IS NOT NULL Drop Table #SQL_Assessment_Info_Temp_DB
+If Object_ID('#SQL_Assessment_Info_Temp_DB','U') IS NOT NULL Drop Table #SQL_Assessment_Info_Temp_DB
 
 CREATE TABLE #SQL_Assessment_Info_Temp_DB (
   [DbName] sysname, 
