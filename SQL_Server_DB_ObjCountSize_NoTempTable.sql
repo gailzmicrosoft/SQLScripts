@@ -4,11 +4,6 @@
 /*                          Gaiye "Gail" Zhou, Architect                               */
 /*                               May 2017                                              */
 /***************************************************************************************/
------------------------------------------------------------------------------------------
--- Important: This T-Scripts will create 'TempDB..#SQL_Assessment_Info_Temp_DB'
---            It will remove it in the end of the scritps. 
---            Please check your DB to see if you have a table with the same name 
------------------------------------------------------------------------------------------
 -- This T-Scripts Produces the following important information from SQL Server for each DB
 -- (1) DbName - database name (exclude master, tempdb, msdb, model) 
 -- (2) Tables - # of Tables in this database (1)
