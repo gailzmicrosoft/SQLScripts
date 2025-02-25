@@ -1,0 +1,6 @@
+{
+	"ServerName":".\\YourSqlServerName",
+	"DatebaseName":"AdventureWorksDW2017",
+	"IntegratedSecurity":"Yes",
+	"SqlFilesFolder":"C:\\Z_Scripts\\SQLScripts"
+}

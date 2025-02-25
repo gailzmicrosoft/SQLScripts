@@ -1,0 +1,6 @@
+{
+	"ServerName":"sqlservername.database.windows.net",
+	"DatebaseName":"dw_db_name",
+	"IntegratedSecurity":"NO",
+	"SqlFilesFolder":"C:\\Z_Scripts\\Sample\\Import_Scripts"
+}
